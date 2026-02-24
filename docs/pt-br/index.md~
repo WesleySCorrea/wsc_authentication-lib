@@ -82,3 +82,6 @@ Tempo de expiração do Refresh Token (em milissegundos).
 
 - 👉 [Guia Inicial](guia-inicial.md)
 - 📌 [API](api.md)
+- ⚙️ [Configuração](configuracao.md)
+- 🔄 [Fluxo de Autenticação](fluxo-autenticacao.md)
+- ❓ [FAQ](faq.md)
