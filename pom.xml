@@ -8,7 +8,7 @@
 		<version>4.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.wsc.soft</groupId>
+    <groupId>com.github.WesleySCorrea</groupId>
 	<artifactId>authentication-lib</artifactId>
 	<version>1.0.0</version>
 	<name>WSC Authentication Lib</name>
