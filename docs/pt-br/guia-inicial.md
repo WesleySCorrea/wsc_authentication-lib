@@ -23,9 +23,9 @@ No seu `pom.xml` adicione a dependência da biblioteca:
 
 ```xml
 <dependency>
-    <groupId>com.wsc.soft</groupId>
+    <groupId>com.github.WesleySCorrea</groupId>
     <artifactId>authentication-lib</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 

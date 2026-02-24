@@ -57,9 +57,9 @@ Add the dependency:
 
 ```xml
 <dependency>
-    <groupId>com.wsc.soft</groupId>
+    <groupId>com.github.WesleySCorrea</groupId>
     <artifactId>authentication-lib</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 

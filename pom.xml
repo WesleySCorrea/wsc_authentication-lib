@@ -10,7 +10,7 @@
 	</parent>
     <groupId>com.github.WesleySCorrea</groupId>
 	<artifactId>authentication-lib</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>WSC Authentication Lib</name>
 	<description>Authentication Lib created by Wesley S Correa</description>
 	<url/>

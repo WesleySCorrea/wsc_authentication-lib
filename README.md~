@@ -4,7 +4,11 @@ A lightweight, stateless JWT authentication library built for Spring Boot applic
 
 Designed to simplify token generation, validation, and integration with Spring Security.
 
-The Documentation oficial is in https://wesleyscorrea.github.io/wsc_authentication-lib/
+## 📖 Documentation
+
+The official documentation is available at:
+
+https://wesleyscorrea.github.io/wsc_authentication-lib/
 
 ## 🚀 Core Features
 
@@ -55,7 +59,7 @@ Add the dependency:
 <dependency>
     <groupId>com.wsc.soft</groupId>
     <artifactId>authentication-lib</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
