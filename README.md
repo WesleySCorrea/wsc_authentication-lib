@@ -62,10 +62,8 @@ Add the repository in the pom.xml:
 ```xml
 <repositories>
     <repository>
-        <id>github</id>
-        <url>
-            https://maven.pkg.github.com/WesleySCorrea/wsc_authentication-lib
-        </url>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
     </repository>
 </repositories>
 ```

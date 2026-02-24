@@ -34,8 +34,10 @@ Adicione também o repositorio do github:
 ```xml
 <repositories>
     <repository>
-        <id>jitpack.io</id>
-        <url>https://jitpack.io</url>
+        <id>github</id>
+        <url>
+            https://maven.pkg.github.com/WesleySCorrea/wsc_authentication-lib
+        </url>
     </repository>
 </repositories>
 ```
