@@ -53,9 +53,11 @@ Add the dependency:
 <dependency>
     <groupId>com.wsc.soft</groupId>
     <artifactId>authentication-lib</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.0</version>
 </dependency>
 ```
+
+Add the repository in the pom
 
 ## 4️⃣ ⚙️ Configuration Example
 

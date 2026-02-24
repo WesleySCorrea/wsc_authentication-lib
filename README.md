@@ -57,6 +57,19 @@ Add the dependency:
 </dependency>
 ```
 
+Add the repository in the pom.xml:
+
+```xml
+<repositories>
+    <repository>
+        <id>github</id>
+        <url>
+            https://maven.pkg.github.com/WesleySCorrea/wsc_authentication-lib
+        </url>
+    </repository>
+</repositories>
+```
+
 ## 4️⃣ ⚙️ Configuration Example
 
 application.yml:

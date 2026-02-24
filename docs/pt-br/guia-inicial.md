@@ -29,6 +29,19 @@ No seu `pom.xml` adicione a dependência da biblioteca:
 </dependency>
 ```
 
+Adicione também o repositorio do github:
+
+```xml
+<repositories>
+    <repository>
+        <id>github</id>
+        <url>
+            https://maven.pkg.github.com/WesleySCorrea/wsc_authentication-lib
+        </url>
+    </repository>
+</repositories>
+```
+
 ### 2️⃣ Configurar application.yml
 
 Configure seu `application.yml` de acordo com suas preferências:
