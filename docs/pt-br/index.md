@@ -50,7 +50,7 @@ Adicione a dependência ao seu projeto e configure as propriedades no applicatio
 <dependency>
     <groupId>com.wsc.soft</groupId>
     <artifactId>authentication-lib</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
@@ -80,5 +80,5 @@ Tempo de expiração do Refresh Token (em milissegundos).
 
 ## 📚 Documentação
 
-- 👉 [Guia Inicial](../../target/guia-inicial.md)
+- 👉 [Guia Inicial](guia-inicial.md)
 - 📌 [API](api.md)
