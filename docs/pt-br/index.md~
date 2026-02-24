@@ -48,7 +48,7 @@ Adicione a dependência ao seu projeto e configure as propriedades no applicatio
 
 ```xml
 <dependency>
-    <groupId>com.wsc.soft</groupId>
+    <groupId>com.github.WesleySCorrea</groupId>
     <artifactId>authentication-lib</artifactId>
     <version>1.0.1</version>
 </dependency>
