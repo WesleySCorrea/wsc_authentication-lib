@@ -54,6 +54,15 @@ Adicione a dependência ao seu projeto e configure as propriedades no applicatio
 </dependency>
 ```
 
+```xml
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+```
+
 ### application.yml
 
 ```yml

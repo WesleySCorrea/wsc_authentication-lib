@@ -160,4 +160,4 @@ Agora sua API está preparada para autenticação segura baseada em JWT.
 - Utilize HTTPS obrigatoriamente em produção.
 
 ### ℹ️ Para detalhes sobre os métodos disponíveis (authenticate, refresh, etc),
-Consulte a seção [API](../docs/pt-br/api.md).
+Consulte a seção [API](api.md).
