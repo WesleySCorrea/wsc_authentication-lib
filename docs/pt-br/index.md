@@ -80,5 +80,5 @@ Tempo de expiração do Refresh Token (em milissegundos).
 
 ## 📚 Documentação
 
-- 👉 [Guia Inicial](guia-inicial.md)
+- 👉 [Guia Inicial](../../target/guia-inicial.md)
 - 📌 [API](api.md)
